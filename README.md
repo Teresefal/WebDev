@@ -1,5 +1,6 @@
 # ADHD Assistant
 Прототип Figma: https://www.figma.com/file/dsrXHW0ULixZ8dPOzTzd89/ADHD-Assistant?type=design&node-id=0%3A1&t=gAYjTdVgYqKb9N8z-1
+Гугл Диск: https://drive.google.com/drive/folders/1x7546fqkZTwfMkZwshIYwsK5pN4AO3ny?usp=sharing
 
 <h3> Общее описание идеи:</h1>
 
