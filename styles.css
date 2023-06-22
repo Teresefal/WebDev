@@ -407,7 +407,7 @@
     height: 200px;
     width: 200px;
     border-radius: 4px;
-    background-image: url('/images/stat1.svg');
+    background-image: url('images/stat1.svg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -418,13 +418,13 @@
   }
   
   .achievements__card:nth-child(2) {
-    background-image: url('/images/stat2.svg');
+    background-image: url('images/stat2.svg');
     height: 250px;
     width: 250px;
   }
 
   .achievements__card:nth-child(3) {
-    background-image: url('/images/stat3.svg');
+    background-image: url('images/stat3.svg');
     height: 180px;
     width: 180px;
   }
